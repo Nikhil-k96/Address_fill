@@ -1,0 +1,8 @@
+# Core dependencies
+pandas>=2.0.0,<3
+requests>=2.31.0,<3
+python-dotenv>=1.0.0,<2
+
+# Optional extras if you choose to use them in the scripts
+# googlemaps>=4.10.0,<5
+# geopy>=2.3.0,<3
